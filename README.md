@@ -11,4 +11,5 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 
 * [hdfs](https://github.com/colinmarc/hdfs) - A native go client for HDFS
 * [hdfs-terminal](https://github.com/mattbaird/hdfs-terminal) - An HDFS terminal in go (golang) to make exploring and accessing the filesystem faster and easier.
+* [gomrjob](https://github.com/jehiah/gomrjob) - gomrjob, a Go Framework for Hadoop Map Reduce Jobs.
 * [timberlake](https://github.com/stripe/timberlake) - Timberlake is a Job Tracker for Hadoop.
