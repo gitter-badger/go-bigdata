@@ -4,6 +4,7 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 ### Contents
 - [Go Big Data](#go-bigdata)
     - [Avro](#avro)
+    - [Cassandra](#cassandra)
     - [Hadoop and HDFS](#hadoop--hdfs)
     - [HBase](#hbase)
     - [Kafka](#kafka)
@@ -16,6 +17,14 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 
 * [goavro](https://github.com/linkedin/goavro) - Goavro is a golang library that implements encoding and decoding of Avro data.
 * [go-avro](https://github.com/elodina/go-avro) - Apache Avro for Golang.
+
+## Cassandra
+
+*Libraries for working with Cassandra*
+
+* [ctop](https://github.com/hailocab/ctop) - CTOP ("top" for Cassandra) - See what's going on in real-time.
+* [gocassa](https://github.com/hailocab/gocassa) - A high level Cassandra library in Go, on top of gocql.
+* [gocql](https://github.com/gocql/gocql) - Package gocql implements a fast and robust Cassandra client for the Go programming language.
 
 ## Hadoop & HDFS
 
