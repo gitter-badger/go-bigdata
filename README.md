@@ -3,9 +3,17 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 
 ### Contents
 - [Go Big Data](#go-bigdata)
+    - [Avro](#avro)
     - [Hadoop and HDFS](#hadoop--hdfs)
     - [Kafka](#kafka)
     - [Zookeeper](#zookeeper)
+
+## Avro
+
+*Libraries for working with Avro encoding*
+
+* [goavro](https://github.com/linkedin/goavro) - Goavro is a golang library that implements encoding and decoding of Avro data.
+* [go-avro](https://github.com/elodina/go-avro) - Apache Avro for Golang.
 
 ## Hadoop & HDFS
 
