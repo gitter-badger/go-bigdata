@@ -19,4 +19,5 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 
 *Libraries and projects for working with Zookeeper*
 
+* [ezk](https://github.com/betable/ezk) - Enhanced Zookeeper client.
 * [go-zookeeper](https://github.com/samuel/go-zookeeper) - Native ZooKeeper client for Go.
