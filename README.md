@@ -4,6 +4,7 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 ### Contents
 - [Go Big Data](#go-bigdata)
     - [Hadoop and HDFS](#hadoop--hdfs)
+    - [Kafka](#kafka)
     - [Zookeeper](#zookeeper)
 
 ## Hadoop & HDFS
@@ -14,6 +15,14 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 * [hdfs-terminal](https://github.com/mattbaird/hdfs-terminal) - An HDFS terminal in go (golang) to make exploring and accessing the filesystem faster and easier.
 * [gomrjob](https://github.com/jehiah/gomrjob) - gomrjob, a Go Framework for Hadoop Map Reduce Jobs.
 * [timberlake](https://github.com/stripe/timberlake) - Timberlake is a Job Tracker for Hadoop.
+
+## Kafka
+
+*Libraries for working with Kafka*
+
+* [go_kafka_client](https://github.com/elodina/go_kafka_client) - Apache Kafka Client Library for Go.
+* [kafka](https://github.com/optiopay/kafka) - Go driver for Kafka.
+* [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8 and 0.9.
 
 ## Zookeeper
 
