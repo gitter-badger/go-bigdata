@@ -3,9 +3,9 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 
 ### Contents
 - [Go Big Data](#go-bigdata)
-    - [Hadoop and HDFS](#hadoop-hdfs)
+    - [Hadoop and HDFS](#hadoop--hdfs)
 
-## Hadoop and HDFS
+## Hadoop & HDFS
 
 *Libraries for interacting and using Hadoop and HDFS*
 
