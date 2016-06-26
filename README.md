@@ -5,7 +5,9 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 - [Go Big Data](#go-bigdata)
     - [Avro](#avro)
     - [Hadoop and HDFS](#hadoop--hdfs)
+    - [HBase](#hbase)
     - [Kafka](#kafka)
+    - [Thrift](#thrift)
     - [Zookeeper](#zookeeper)
 
 ## Avro
@@ -24,6 +26,14 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 * [gomrjob](https://github.com/jehiah/gomrjob) - gomrjob, a Go Framework for Hadoop Map Reduce Jobs.
 * [timberlake](https://github.com/stripe/timberlake) - Timberlake is a Job Tracker for Hadoop.
 
+## HBase
+
+*Libraries for working with HBase*
+
+* [gohbase](https://github.com/tsuna/gohbase) - Pure-Go HBase client.
+* [go-hbase](https://github.com/Lazyshot/go-hbase) - An implementation of a native golang HBase Client.
+* 
+
 ## Kafka
 
 *Libraries for working with Kafka*
@@ -31,6 +41,12 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 * [go_kafka_client](https://github.com/elodina/go_kafka_client) - Apache Kafka Client Library for Go.
 * [kafka](https://github.com/optiopay/kafka) - Go driver for Kafka.
 * [sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka 0.8 and 0.9.
+
+## Thrift
+
+*Libraries for working with Thrift*
+
+* [go-thrift](https://github.com/samuel/go-thrift) - A native Thrift package for Go
 
 ## Zookeeper
 
