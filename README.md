@@ -4,6 +4,7 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 ### Contents
 - [Go Big Data](#go-bigdata)
     - [Hadoop and HDFS](#hadoop--hdfs)
+    - [Zookeeper](#zookeeper)
 
 ## Hadoop & HDFS
 
@@ -13,3 +14,9 @@ A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [
 * [hdfs-terminal](https://github.com/mattbaird/hdfs-terminal) - An HDFS terminal in go (golang) to make exploring and accessing the filesystem faster and easier.
 * [gomrjob](https://github.com/jehiah/gomrjob) - gomrjob, a Go Framework for Hadoop Map Reduce Jobs.
 * [timberlake](https://github.com/stripe/timberlake) - Timberlake is a Job Tracker for Hadoop.
+
+## Zookeeper
+
+*Libraries and projects for working with Zookeeper*
+
+* [go-zookeeper](https://github.com/samuel/go-zookeeper) - Native ZooKeeper client for Go.
