@@ -1,4 +1,6 @@
 # Go Big Data
+
+[![Join the chat at https://gitter.im/trillium-labs/go-bigdata](https://badges.gitter.im/trillium-labs/go-bigdata.svg)](https://gitter.im/trillium-labs/go-bigdata?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
