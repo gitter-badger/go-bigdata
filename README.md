@@ -1,6 +1,9 @@
 # Go Big Data
 A curated list of Big Data tools, libraries and frameworks for Go. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+### Contributing
+
+Please take a look at the [contribution guidelines](https://github.com/trillium-labs/go-bigdata/blob/master/CONTRIBUTING.md) first. A big thank you to all [contributors](https://github.com/trillium-labs/go-bigdata/graphs/contributors)!
 ### Contents
 - [Go Big Data](#go-bigdata)
     - [Avro](#avro)
