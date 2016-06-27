@@ -2,14 +2,14 @@ A big thank you to the Go community for creating these great projects and librar
 
 This hand-curated list looks for high-quality projects that can be useful to the Go community. We appreciate any help in maintaining this list.
 
-# Contribution Guidelines
+**To add, remove, or change a resource -** Please submit a pull request
 
-- **To add, remove, or change a resource:** Please submit a pull request
+## Contribution Guidelines
 
-- List items should be sorted *alphabetically*.
+- List items should be sorted *alphabetically*
 - The link should be the name of the project or package
-- Descriptions should follow the project link on the same line.
-- Descriptions should be concise and limited to once sentence.
+- Descriptions should follow the project link on the same line
+- Descriptions should be concise and limited to once sentence
 
 ## Quality Standards
 
